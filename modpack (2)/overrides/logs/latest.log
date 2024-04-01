@@ -1,0 +1,136 @@
+[14:48:42] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.9
+[14:48:42] [main/WARN]: Warnings were found!
+ - Mod 'Sodium Extra' (sodium-extra) 0.4.7+mc1.19.2-build.52 recommends version 1.4.2 or later of reeses-sodium-options, which is missing!
+	 - You should install version 1.4.2 or later of reeses-sodium-options for the optimal experience.
+[14:48:42] [main/INFO]: Loading 86 mods:
+	- caffeineconfig 1.0.0+1.17 via sodium-extra
+	- capes 1.4.4+1.19
+	- cocoainput 4.1.0-EXPERIMENTAL
+	- com_velocitypowered_velocity-native 3.1.2-SNAPSHOT via krypton
+	- continuity 2.0.1+1.19
+	- fabric-api 0.60.0+1.19.2
+	- fabric-api-base 0.4.11+e62f51a390 via fabric-api
+	- fabric-api-lookup-api-v1 1.6.9+9ff28f4090 via fabric-api
+	- fabric-biome-api-v1 9.0.17+aeb40ebe90 via fabric-api
+	- fabric-blockrenderlayer-v1 1.1.20+aeb40ebe90 via fabric-api
+	- fabric-client-tags-api-v1 1.0.1+b35fea8390 via fabric-api
+	- fabric-command-api-v1 1.2.11+f71b366f90 via fabric-api
+	- fabric-command-api-v2 2.1.7+0c17ea9690 via fabric-api
+	- fabric-commands-v0 0.2.28+df3654b390 via fabric-api
+	- fabric-containers-v0 0.1.34+df3654b390 via fabric-api
+	- fabric-content-registries-v0 3.2.3+aeb40ebe90 via fabric-api
+	- fabric-convention-tags-v1 1.1.1+7cd20a1490 via fabric-api
+	- fabric-crash-report-info-v1 0.2.5+aeb40ebe90 via fabric-api
+	- fabric-data-generation-api-v1 5.1.8+a680b9b490 via fabric-api
+	- fabric-dimensions-v1 2.1.30+aeb40ebe90 via fabric-api
+	- fabric-entity-events-v1 1.4.18+9ff28f4090 via fabric-api
+	- fabric-events-interaction-v0 0.4.28+aeb40ebe90 via fabric-api
+	- fabric-events-lifecycle-v0 0.2.28+df3654b390 via fabric-api
+	- fabric-game-rule-api-v1 1.0.21+aeb40ebe90 via fabric-api
+	- fabric-item-api-v1 1.5.7+35a03c4390 via fabric-api
+	- fabric-item-groups-v0 0.3.28+aeb40ebe90 via fabric-api
+	- fabric-key-binding-api-v1 1.0.20+aeb40ebe90 via fabric-api
+	- fabric-keybindings-v0 0.2.18+df3654b390 via fabric-api
+	- fabric-language-kotlin 1.8.3+kotlin.1.7.10
+	- fabric-lifecycle-events-v1 2.1.2+aeb40ebe90 via fabric-api
+	- fabric-loot-api-v2 1.1.3+83a8659290 via fabric-api
+	- fabric-loot-tables-v1 1.1.6+9e7660c690 via fabric-api
+	- fabric-message-api-v1 5.0.3+176380a290 via fabric-api
+	- fabric-mining-level-api-v1 2.1.14+33fbc73890 via fabric-api
+	- fabric-models-v0 0.3.17+aeb40ebe90 via fabric-api
+	- fabric-networking-api-v1 1.2.4+5eb68ef290 via fabric-api
+	- fabric-networking-v0 0.3.21+df3654b390 via fabric-api
+	- fabric-object-builder-api-v1 4.0.11+aeb40ebe90 via fabric-api
+	- fabric-particles-v1 1.0.10+aeb40ebe90 via fabric-api
+	- fabric-registry-sync-v0 0.9.24+aeb40ebe90 via fabric-api
+	- fabric-renderer-api-v1 1.0.10+aeb40ebe90 via fabric-api
+	- fabric-renderer-indigo 0.6.12+aeb40ebe90 via fabric-api
+	- fabric-renderer-registries-v1 3.2.20+df3654b390 via fabric-api
+	- fabric-rendering-data-attachment-v1 0.3.14+aeb40ebe90 via fabric-api
+	- fabric-rendering-fluids-v1 3.0.7+aeb40ebe90 via fabric-api
+	- fabric-rendering-v0 1.1.22+df3654b390 via fabric-api
+	- fabric-rendering-v1 1.10.16+aeb40ebe90 via fabric-api
+	- fabric-resource-conditions-api-v1 2.0.11+e62f51a390 via fabric-api
+	- fabric-resource-loader-v0 0.6.1+aeb40ebe90 via fabric-api
+	- fabric-screen-api-v1 1.0.26+f05effaf90 via fabric-api
+	- fabric-screen-handler-api-v1 1.2.13+9ff28f4090 via fabric-api
+	- fabric-textures-v0 1.0.20+aeb40ebe90 via fabric-api
+	- fabric-transfer-api-v1 2.0.11+83a8659290 via fabric-api
+	- fabric-transitive-access-wideners-v1 1.3.0+42d99c3290 via fabric-api
+	- fabricloader 0.14.9
+	- ferritecore 4.2.1
+	- fpsreducer 1.19.2-2.1
+	- iris 1.2.6
+	- java 17
+	- krypton 0.2.1
+	- lambdynlights 2.1.2+1.19
+	- languagereload 1.3.2
+	- lithium 0.8.3
+	- minecraft 1.19.2
+	- modmenu 4.0.6
+	- omega-config 1.2.3-1.18.1 via capes
+	- org_anarres_jcpp 1.4.14 via iris
+	- org_jetbrains_kotlin_kotlin-reflect 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_atomicfu-jvm 0.18.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.4.0 via fabric-language-kotlin
+	- org_joml_joml 1.10.4 via sodium
+	- pride 1.1.2+1.19 via lambdynlights
+	- sodium 0.4.2+build.16
+	- sodium-extra 0.4.7+mc1.19.2-build.52
+	- spruceui 4.0.0+1.19 via lambdynlights
+	- starlight 1.1.1+fabric.ae22326
+	- wi_zoom 1.4-MC1.19.2
+	- worldedit 7.2.12+6240-87f4ae1
+[14:48:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/armyo/curseforge/minecraft/Install/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[14:48:43] [main/INFO]: Compatibility level set to JAVA_17
+[14:48:43] [main/INFO]: OptiFine was NOT detected.
+[14:48:43] [main/INFO]: OptiFabric was NOT detected.
+[14:48:43] [main/INFO]: Loaded configuration file for Lithium: 94 options available, 2 override(s) found
+[14:48:43] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 1 override(s) found
+[14:48:43] [main/INFO]: Loaded configuration file for Sodium Extra: 27 options available, 0 override(s) found
+[14:48:43] [main/INFO]: bre2el.fpsreducer.mixin.MinecraftClientMixin will be applied.
+[14:48:43] [main/INFO]: bre2el.fpsreducer.mixin.KeyboardMixin will be applied.
+[14:48:43] [main/INFO]: bre2el.fpsreducer.mixin.RenderSystemMixin will be applied.
+[14:48:43] [main/INFO]: bre2el.fpsreducer.mixin.WindowMixin will NOT be applied because OptiFine was NOT detected.
+[14:48:43] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[14:48:43] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[14:48:44] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[14:48:44] [main/WARN]: Configuration conflict: there is more than one oshi.properties file on the classpath
+[14:48:45] [main/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath
+[14:48:48] [main/INFO]: Building optimized datafixer
+[14:48:53] [Render thread/WARN]: Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder from mod sodium, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.
+[14:48:55] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:48:56] [Render thread/INFO]: Setting user: GBnwki_dev
+[14:48:58] [Render thread/INFO]: Compression will use Java, encryption will use Java
+[14:48:58] [Render thread/INFO]: [STDOUT]: Starting WI Zoom v1.4-MC1.19.2
+[14:49:00] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4e7215a3]
+[14:49:00] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.12+6240-87f4ae1) is loaded
+[14:49:03] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[14:49:03] [Render thread/INFO]: Krypton is now accelerating your Minecraft client's networking stack ?
+[14:49:03] [Render thread/INFO]: Note that Krypton is most effective on servers, not the client.
+[14:49:03] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[14:49:03] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[14:49:04] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] This version doesn't have an update index, skipping.
+[14:49:04] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[14:49:07] [Render thread/INFO]: Debug functionality is disabled.
+[14:49:07] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[14:49:07] [Render thread/INFO]: Shaders are disabled
+[14:49:07] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[14:49:08] [Render thread/INFO]: Hardware information:
+[14:49:08] [Render thread/INFO]: CPU: 16x 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+[14:49:08] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 512.77)
+[14:49:08] [Render thread/INFO]: OS: Windows 10 (10.0)
+[14:49:10] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[14:49:10] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (CaffeineConfig, Capes, CocoaInput, Continuity, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Client Tags, Fabric Command API (v1), Fabric Command API (v2), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Language Kotlin, Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Message API (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, FPS Reducer, Iris, Krypton, LambDynamicLights, Language Reload, Lithium, Mod Menu, OmegaConfig, Pride Lib, Sodium, Sodium Extra, SpruceUI, Starlight, WI Zoom, WorldEdit)
+[14:49:10] [Render thread/INFO]: Modloader:Fabric
+[14:49:10] [Render thread/INFO]: This is Windows Controller
+[14:49:10] [Render thread/INFO]: CocoaInput has copied library to native directory.
+[14:49:11] [Render thread/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath
