@@ -1,0 +1,1 @@
+anythingV3_fp16(1).safetensors filter=lfs diff=lfs merge=lfs -text
